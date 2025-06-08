@@ -7,36 +7,35 @@ while (!dreamJobFound()) {
     surviveServiceBasedLife();
 }
 ```
-🚗 Who am I?
-	•	🧑‍💻 I currently work in a service-based company — yes, the land of never-ending client calls and tickets that magically appear at 5:59 PM.
-	•	🧭 I’m on a mission to switch lanes — from service-based to “roadways” (read: product-based 🛣️), because I heard they give you snacks, stock options, and weekends back.
-	•	🧠 Learning Data Structures & Algorithms to decode the secret interview rituals of FAANG and friends.
+🚧 About Me
+	•	🧑‍💻 Dev in a service-based firm (where tickets arrive faster than salary hikes)
+	•	🚀 On a mission to switch lanes to a “roadways” company (read: product-based 🛣️)
+	•	📚 Learning DSA to unlock the gates of FAANG & free snacks
 
-💼 Tech Stack (aka: what I’ve broken and fixed repeatedly):
-	•	☕ Java (yes, the one with semicolons and stack overflow-inducing errors)
-	•	🌐 Node.js, React (because every resume needs a JavaScript sandwich)
-	•	🖥️ VS Code (a.k.a. my second home)
-	•	🐛 Debugging skills: 9/10 — I can debug anything except my life
+🔧 Tech Stack
+	•	☕ Java (classic stress with semicolons)
+	•	🌐 Node.js + React (aka frontend-backend biryani)
+	•	🐞 Debugging pro — except when it comes to my life
 
-📈 My current stats:
-	•	📚 LeetCode streak: Alive but struggling
-	•	⏰ Time spent on DSA: 1 hour/day (after escaping office chaos)
-	•	😵‍💫 Number of times I cried over a single binary search bug: ∞
+📊 Stats That Hurt
+	•	⏳ LeetCode streak: hanging by a thread
+	•	⌨️ DSA grind: 1 hour daily (post-corporate chaos)
+	•	😵‍💫 Binary Search bugs: infinite loop of pain
 
-🎯 Goals:
-	•	☑️ Understand pointers without crying
-	•	☑️ Solve “medium” DSA problems without existential crisis
-	•	⏳ Crack product-based interviews and tell the tale
+🎯 Roadmap
+	•	✅ Stop fearing pointers
+	•	✅ Solve “medium” without emotional damage
+	•	🔜 Crack a product-based role & finally sleep on weekends
 
-😎 Fun Fact:
+😂 Fun Fact
 
-I once debugged a production bug faster than I boiled Maggi — and that’s saying something!
-
-⸻
-
-“You either die a service-based dev, or you live long enough to see yourself join a product company.”
-— ~ Not Batman, just me.
+I once fixed a prod bug faster than cooking Maggi… and no, I didn’t undercook it.
 
 ⸻
 
-📬 Feel free to connect, collaborate, or send memes. PRs and PPOs welcome! 😄
+“Either die a service-based dev, or live long enough to join a product company.”
+— Definitely not Batman
+
+⸻
+
+📫 Ping me for collabs, memes, or job referrals. PPOs and PRs welcome! 😎
